@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi, I'm Ram Singh 👋
 🎓 Tech enthusiast based in Mumbai, Maharashtra, India<br>
 🔭 Currently building projects in Web Dev & Python automation<br>
 🌱 Learning full-stack development & cloud technologies<br>
