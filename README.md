@@ -11,7 +11,7 @@
 
 ### `< building the web, one commit at a time />`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Web+Dev+%F0%9F%8C%90+%7C+Python+Automation+%F0%9F%90%8D;Open+to+Internships+%26+Entry-Level+Roles;Always+learning%2C+always+building+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Web+Dev+%F0%9F%8C%90+%7C+Python+Automation+%F0%9F%90%8D;Open+to+Internships;Always+learning%2C+always+building+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 <br/>
 
