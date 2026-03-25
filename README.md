@@ -140,5 +140,5 @@ ram = {
 ---
 
 <div align="center">
-  <sub>⚡ Built with passion from Mumbai 🇮🇳 · Always building, always learning</sub>
+  <sub>⚡ · Always building, always learning</sub>
 </div>
