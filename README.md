@@ -18,7 +18,6 @@
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ramsingh.me-0D1117?style=for-the-badge&logoColor=white)](https://ramsingh.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ram-singh4656)
 [![Email](https://img.shields.io/badge/Email-Say_Hi!-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ram01singh4656@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-Chat-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/874953017227628554)
 
 </div>
 
