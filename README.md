@@ -81,7 +81,7 @@ ram = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ramsingh4656&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" height="165" />
+![GitHub Profile Stats Card](https://gitprofilestats.duckdns.org/api/cards/stats.svg?username=Ramsingh4656&theme=dracula&accent=58a6ff&background=090d16&border_radius=10&font_style=mono)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramsingh4656&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true" height="165" />
 
 <br/>
