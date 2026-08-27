@@ -1,11 +1,10 @@
 <div align="center">
 
-
 ![GitHub Profile Stats Card](https://gitprofilestats.duckdns.org/api/cards/profile.svg?username=Ramsingh4656&theme=dracula&accent=58a6ff&background=090d16&border_radius=24&font_style=mono)
 
 ### `< building the web, one commit at a time />`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Web+Dev+%F0%9F%8C%90+%7C+Python+Automation+%F0%9F%90%8D;Open+to+Internships;Always+learning%2C+always+building+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Web+Dev+%F0%9F%8C%90+%7C+Python+Automation+%F0%9F%90%8D;DevOps+%26+Cloud+%E2%98%81%EF%B8%8F;Open+to+Internships;Always+learning%2C+always+building+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 <br/>
 
@@ -22,8 +21,8 @@
 ```python
 ram = {
     "location"    : "Mumbai, Maharashtra 🇮🇳",
-    "currently"   : ["Web Dev", "Python Automation", "Cloud setups"],
-    "looking_for" : ["Internships", "Data Entry", "Admin", "Back Office"],
+    "currently"   : ["Web Dev", "Python Automation", "Cloud & DevOps"],
+    "looking_for" : ["Internships", "DevOps", "Admin", "Back Office"],
     "portfolio"   : "https://ramsingh.me",
     "contact"     : "ram01singh4656@gmail.com",
     "fun_fact"    : "I automate things that annoy me 🤖"
@@ -55,8 +54,11 @@ ram = {
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-**Cloud & DevOps**
+**DevOps & Cloud**
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
@@ -79,13 +81,14 @@ ram = {
 
 ## 📊 GitHub Stats
 
+<div align="center">
+
 ![GitHub Profile Stats Card](https://gitprofilestats.duckdns.org/api/cards/stats.svg?username=Ramsingh4656&theme=dracula&accent=58a6ff&background=090d16&border_radius=24&font_style=mono)
-![GitHub Profile Stats Card](https://gitprofilestats.duckdns.org/api/cards/languages.svg?username=Ramsingh4656&theme=dracula&langs_count=5&accent=58a6ff&background=090d16&border_radius=24&font_style=mono)
+![GitHub Profile Languages Card](https://gitprofilestats.duckdns.org/api/cards/languages.svg?username=Ramsingh4656&theme=dracula&langs_count=5&accent=58a6ff&background=090d16&border_radius=24&font_style=mono)
 
 <br/>
-<div align="center">
-    
-![GitHub Profile Stats Card](https://gitprofilestats.duckdns.org/api/cards/streak.svg?username=Ramsingh4656&theme=dracula&accent=58a6ff&background=090d16&border_radius=24&font_style=mono)
+
+![GitHub Profile Streak Card](https://gitprofilestats.duckdns.org/api/cards/streak.svg?username=Ramsingh4656&theme=dracula&accent=58a6ff&background=090d16&border_radius=24&font_style=mono)
 
 </div>
 
@@ -95,7 +98,7 @@ ram = {
 
 <div align="center">
 
-![GitHub Profile Stats Card](https://gitprofilestats.duckdns.org/api/cards/trophies.svg?username=Ramsingh4656&theme=dracula&accent=58a6ff&background=090d16&border_radius=24&font_style=mono)
+![GitHub Profile Trophies Card](https://gitprofilestats.duckdns.org/api/cards/trophies.svg?username=Ramsingh4656&theme=dracula&accent=58a6ff&background=090d16&border_radius=24&font_style=mono)
 
 </div>
 
@@ -105,7 +108,7 @@ ram = {
 
 <div align="center">
 
-![GitHub Profile Stats Card](https://gitprofilestats.duckdns.org/api/cards/top-contributed.svg?username=Ramsingh4656&theme=dracula&limit=5&accent=58a6ff&background=090d16&border_radius=24&font_style=mono)
+![GitHub Top Contributed Repos Card](https://gitprofilestats.duckdns.org/api/cards/top-contributed.svg?username=Ramsingh4656&theme=dracula&limit=5&accent=58a6ff&background=090d16&border_radius=24&font_style=mono)
 
 </div>
 
@@ -115,7 +118,7 @@ ram = {
 
 <div align="center">
 
-> 💼 **Open to internships & entry-level roles** — Data Entry · Admin · Back Office · Web Dev
+> 💼 **Open to internships & entry-level roles** — DevOps · Admin · Back Office · Web Dev
 >
 > 📬 Drop me a mail at **ram01singh4656@gmail.com** or connect on LinkedIn!
 
