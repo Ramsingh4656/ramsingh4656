@@ -81,8 +81,7 @@ ram = {
 
 <div align="center">
 
-![GitHub Profile Stats Card](https://gitprofilestats.duckdns.org/api/cards/stats.svg?username=Ramsingh4656&theme=dracula&accent=58a6ff&background=090d16&border_radius=10&font_style=mono)
-![GitHub Profile Stats Card](https://gitprofilestats.duckdns.org/api/cards/languages.svg?username=Ramsingh4656&theme=dracula&langs_count=5&accent=58a6ff&background=090d16&border_radius=10&font_style=mono)
+![GitHub Profile Stats Card](https://gitprofilestats.duckdns.org/api/cards/stats.svg?username=Ramsingh4656&theme=dracula&accent=58a6ff&background=090d16&border_radius=10&font_style=mono)![GitHub Profile Stats Card](https://gitprofilestats.duckdns.org/api/cards/languages.svg?username=Ramsingh4656&theme=dracula&langs_count=5&accent=58a6ff&background=090d16&border_radius=10&font_style=mono)
 
 <br/>
 
