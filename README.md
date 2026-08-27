@@ -1,7 +1,7 @@
 <div align="center">
 
 
-![GitHub Profile Stats Card](https://gitprofilestats.duckdns.org/api/cards/profile.svg?username=Ramsingh4656&theme=dracula&background=090d16&border_radius=10)
+![GitHub Profile Stats Card](https://gitprofilestats.duckdns.org/api/cards/profile.svg?username=Ramsingh4656&theme=dracula&accent=58a6ff&background=090d16&border_radius=10&font_style=mono)
 
 ### `< building the web, one commit at a time />`
 
