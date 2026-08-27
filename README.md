@@ -81,11 +81,12 @@ ram = {
 
 <div align="center">
 
-![GitHub Profile Stats Card](https://gitprofilestats.duckdns.org/api/cards/stats.svg?username=Ramsingh4656&theme=dracula&accent=58a6ff&background=090d16&border_radius=10&font_style=mono)![GitHub Profile Stats Card](https://gitprofilestats.duckdns.org/api/cards/languages.svg?username=Ramsingh4656&theme=dracula&langs_count=5&accent=58a6ff&background=090d16&border_radius=10&font_style=mono)
+![GitHub Profile Stats Card](https://gitprofilestats.duckdns.org/api/cards/stats.svg?username=Ramsingh4656&theme=dracula&accent=58a6ff&background=090d16&border_radius=10&font_style=mono)
+![GitHub Profile Stats Card](https://gitprofilestats.duckdns.org/api/cards/languages.svg?username=Ramsingh4656&theme=dracula&langs_count=5&accent=58a6ff&background=090d16&border_radius=10&font_style=mono)
 
 <br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=ramsingh4656&theme=tokyonight&hide_border=true" />
+![GitHub Profile Stats Card](https://gitprofilestats.duckdns.org/api/cards/streak.svg?username=Ramsingh4656&theme=nord&accent=58a6ff&background=090d16&border_radius=10&font_style=mono)
 
 </div>
 
@@ -105,7 +106,7 @@ ram = {
 
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=ramsingh4656&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![GitHub Profile Stats Card](https://gitprofilestats.duckdns.org/api/cards/top-contributed.svg?username=Ramsingh4656&theme=nord&limit=5&accent=58a6ff&background=090d16&border_radius=10&font_style=mono)
 
 </div>
 
