@@ -1,6 +1,6 @@
 <div align="center">
 
-![GitHub Profile Stats Card](https://gitprofilestats.duckdns.org/api/cards/profile.svg?username=Ramsingh4656&theme=dracula&accent=58a6ff&background=090d16&border_radius=24&font_style=mono)
+![GitHub Profile Stats Card](https://gitprofilestats.duckdns.org/api/cards/profile.svg?username=ram-singhh&theme=dracula&accent=58a6ff&background=090d16&border_radius=24&font_style=mono)
 
 ### `< building the web, one commit at a time />`
 
@@ -83,12 +83,11 @@ ram = {
 
 <div align="center">
 
-![GitHub Profile Stats Card](https://gitprofilestats.duckdns.org/api/cards/stats.svg?username=Ramsingh4656&theme=dracula&accent=58a6ff&background=090d16&border_radius=24&font_style=mono)
-![GitHub Profile Languages Card](https://gitprofilestats.duckdns.org/api/cards/languages.svg?username=Ramsingh4656&theme=dracula&langs_count=5&accent=58a6ff&background=090d16&border_radius=24&font_style=mono)
+![GitHub Profile Stats Card](https://gitprofilestats.duckdns.org/api/cards/stats.svg?username=ram-singhh&theme=dracula&accent=58a6ff&background=090d16&border_radius=24&font_style=mono)
 
 <br/>
 
-![GitHub Profile Streak Card](https://gitprofilestats.duckdns.org/api/cards/streak.svg?username=Ramsingh4656&theme=dracula&accent=58a6ff&background=090d16&border_radius=24&font_style=mono)
+![GitHub Profile Stats Card](https://gitprofilestats.duckdns.org/api/cards/streak.svg?username=ram-singhh&theme=dracula&accent=58a6ff&background=090d16&border_radius=24&font_style=mono)
 
 </div>
 
@@ -98,7 +97,7 @@ ram = {
 
 <div align="center">
 
-![GitHub Profile Trophies Card](https://gitprofilestats.duckdns.org/api/cards/trophies.svg?username=Ramsingh4656&theme=dracula&accent=58a6ff&background=090d16&border_radius=24&font_style=mono)
+![GitHub Profile Stats Card](https://gitprofilestats.duckdns.org/api/cards/trophies.svg?username=ram-singhh&theme=dracula&accent=58a6ff&background=090d16&border_radius=24&font_style=mono)
 
 </div>
 
@@ -108,7 +107,7 @@ ram = {
 
 <div align="center">
 
-![GitHub Top Contributed Repos Card](https://gitprofilestats.duckdns.org/api/cards/top-contributed.svg?username=Ramsingh4656&theme=dracula&limit=5&accent=58a6ff&background=090d16&border_radius=24&font_style=mono)
+![GitHub Profile Stats Card](https://gitprofilestats.duckdns.org/api/cards/top-contributed.svg?username=ram-singhh&theme=dracula&limit=5&accent=58a6ff&background=090d16&border_radius=24&font_style=mono)
 
 </div>
 
@@ -124,7 +123,7 @@ ram = {
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-ramsingh.me-0D1117?style=for-the-badge)](https://ramsingh.me)
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-ramsingh.dev-0D1117?style=for-the-badge)](https://ramsingh.dev)
 
 <br/>
 
